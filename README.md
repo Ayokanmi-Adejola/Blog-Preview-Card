@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Blog-Preview-Card)
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/Blog-Preview-Card/)
 
 ## My process
 
