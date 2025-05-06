@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Blog-Preview-Card)
+- Live Site URL: [Live Site]()
 
 ## My process
 
