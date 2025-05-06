@@ -99,4 +99,4 @@ In future projects, I'd like to focus more on:
 ## Author
 
 - Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
+- Frontend Mentor - [Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
