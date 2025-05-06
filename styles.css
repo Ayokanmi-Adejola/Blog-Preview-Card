@@ -1,0 +1,131 @@
+:root {
+  --yellow: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+  --gray-500: hsl(0, 0%, 42%);
+  --gray-950: hsl(0, 0%, 7%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Figtree', sans-serif;
+  background-color: var(--yellow);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+main {
+  max-width: 100%;
+}
+
+.card {
+  background-color: var(--white);
+  border-radius: 1rem;
+  overflow: hidden;
+  max-width: 380px;
+  border: 1px solid var(--gray-950);
+  box-shadow: 8px 8px 0 var(--gray-950);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.card-content {
+  padding: 1.5rem;
+}
+
+.tag {
+  display: inline-block;
+  background-color: var(--yellow);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 800;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.date {
+  color: var(--gray-500);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: var(--gray-950);
+  cursor: pointer;
+}
+
+.title:hover {
+  color: var(--yellow);
+}
+
+.description {
+  color: var(--gray-500);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 1.5rem;
+}
+
+.author-image {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+}
+
+.author-name {
+  font-weight: 800;
+  font-size: 0.875rem;
+  color: var(--gray-950);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media (max-width: 375px) {
+  .card {
+    max-width: 100%;
+  }
+  
+  .card-content {
+    padding: 1.25rem;
+  }
+  
+  .title {
+    font-size: 1.25rem;
+  }
+}
