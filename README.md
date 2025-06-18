@@ -2,18 +2,6 @@
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -27,10 +15,6 @@ Users should be able to:
 
 ![](./design/desktop-design.jpg)
 
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Blog-Preview-Card)
-- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -98,5 +82,4 @@ In future projects, I'd like to focus more on:
 
 ## Author
 
-- Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
 - Frontend Mentor - [Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
