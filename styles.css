@@ -45,7 +45,7 @@ main {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 1rem 1rem 0 0;
+  border-radius: 1rem;
 }
 
 .card-content {
